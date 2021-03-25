@@ -1,7 +1,8 @@
 {
-    "name": "fzaninotto/faker",
+    "name": "giginc/faker",
     "type": "library",
     "description": "Faker is a PHP library that generates fake data for you.",
+    "homepage": "https://github.com/giginc/Faker",
     "keywords": [
         "faker",
         "fixtures",
@@ -10,7 +11,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "François Zaninotto"
+            "name": "Shota KAGAWA"
         }
     ],
     "require": {
